@@ -1,0 +1,417 @@
+{
+    "jas": [
+        {
+            "foto": "images/produk/Jas-1.png",
+            "nama": "Jas",
+            "size": "All Size",
+            "harga": "800.000",
+            "link": "https://www.google.com/search?q=Jas&tbm=shop"
+        },
+        {
+            "foto": "images/produk/Jas-2.png",
+            "nama": "Jas Hitam",
+            "size": "All Size",
+            "harga": "900.000",
+            "link": "https://www.google.com/search?q=cJas+Hitam&tbm=shop"
+        }
+    ],
+    "sweater": [
+        {
+            "foto": "images/produk/Sweater-2.png",
+            "nama": "Sweater",
+            "size": "All Size",
+            "harga": "250.000",
+            "link": "https://www.google.com/search?q=Sweater&tbm=shop"
+        },
+        {
+            "foto": "images/produk/Sweater-4.png",
+            "nama": "Sweater",
+            "size": "All Size",
+            "harga": "499.000",
+            "link": "https://www.google.com/search?q=Sweater&tbm=shop"
+        },
+        {
+            "foto": "images/produk/Sweater-5.png",
+            "nama": "Sweater",
+            "size": "All Size",
+            "harga": "900.000",
+            "link": "https://www.google.com/search?q=Sweater&tbm=shop"
+        }
+    ],
+    "hoodie": [
+        {
+            "foto": "images/produk/Hoodie-1.png",
+            "nama": "Hoodie",
+            "size": "All Size",
+            "harga": "250.000",
+            "link": "https://www.google.com/search?q=Hoodie&tbm=shop"
+        },
+        {
+            "foto": "images/produk/Hoodie-2.png",
+            "nama": "Hoodie",
+            "size": "All Size",
+            "harga": "450.000",
+            "link": "https://www.google.com/search?q=Hoodie&tbm=shop"
+        },
+        {
+            "foto": "images/produk/Hoodie-3.png",
+            "nama": "Hoodie",
+            "size": "All Size",
+            "harga": "950.000",
+            "link": "https://www.google.com/search?q=Hoodie&tbm=shop"
+        }
+    ],
+    "allitems": [
+        {
+            "foto": "images/produk/Jas-1.png",
+            "nama": "Jas",
+            "size": "All Size",
+            "harga": "800.000",
+            "link": "https://www.google.com/search?q=Jas&tbm=shop"
+        },
+        {
+            "foto": "images/produk/Jas-2.png",
+            "nama": "Jas Hitam",
+            "size": "All Size",
+            "harga": "900.000",
+            "link": "https://www.google.com/search?q=cJas+Hitam&tbm=shop"
+        },
+        {
+            "foto": "images/produk/Sweater-2.png",
+            "nama": "Sweater",
+            "size": "All Size",
+            "harga": "250.000",
+            "link": "https://www.google.com/search?q=Sweater&tbm=shop"
+        },
+        {
+            "foto": "images/produk/Sweater-4.png",
+            "nama": "Sweater",
+            "size": "All Size",
+            "harga": "499.000",
+            "link": "https://www.google.com/search?q=Sweater&tbm=shop"
+        },
+        {
+            "foto": "images/produk/Sweater-5.png",
+            "nama": "Sweater",
+            "size": "All Size",
+            "harga": "900.000",
+            "link": "https://www.google.com/search?q=Sweater&tbm=shop"
+        },
+        {
+            "foto": "images/produk/Hoodie-1.png",
+            "nama": "Hoodie",
+            "size": "All Size",
+            "harga": "250.000",
+            "link": "https://www.google.com/search?q=Hoodie&tbm=shop"
+        },
+        {
+            "foto": "images/produk/Hoodie-2.png",
+            "nama": "Hoodie",
+            "size": "All Size",
+            "harga": "450.000",
+            "link": "https://www.google.com/search?q=Hoodie&tbm=shop"
+        },
+        {
+            "foto": "images/produk/Hoodie-3.png",
+            "nama": "Hoodie",
+            "size": "All Size",
+            "harga": "950.000",
+            "link": "https://www.google.com/search?q=Hoodie&tbm=shop"
+        }
+    ],
+    "nonitems": [
+        {
+            "foto": "images/produk/Celana.png",
+            "nama": "Celana",
+            "size": "28-41",
+            "harga": "500.000",
+            "link": "https://www.google.com/search?q=Celana&tbm=shop"
+        },
+        {
+            "foto": "images/produk/Celana-3.png",
+            "nama": "Celana",
+            "size": "28-41",
+            "harga": "350.000",
+            "link": "https://www.google.com/search?q=Celana&tbm=shop"
+        },
+        {
+            "foto": "images/produk/Kaos_Kaki.png",
+            "nama": "Kaos Kaki",
+            "size": "pcs",
+            "harga": "20.000",
+            "link": "https://www.google.com/search?q=KaosKaki&tbm=shop"
+        },
+        {
+            "foto": "images/produk/Sepatu.png",
+            "nama": "Sepatu",
+            "size": "39-49",
+            "harga": "350.000",
+            "link": "https://www.google.com/search?q=Sepatu&tbm=shop"
+        },
+        {
+            "foto": "images/produk/Sepatu-2.png",
+            "nama": "Sepatu",
+            "size": "39-49",
+            "harga": "450.000",
+            "link": "https://www.google.com/search?q=Sepatu&tbm=shop"
+        }
+    ],
+    "paling_mahal": [
+        {
+            "foto": "images/produk/Hoodie-3.png",
+            "nama": "Hoodie",
+            "size": "All Size",
+            "harga": "950.000",
+            "link": "https://www.google.com/search?q=Hoodie&tbm=shop"
+        },
+        {
+            "foto": "images/produk/Jas-2.png",
+            "nama": "Jas Hitam",
+            "size": "All Size",
+            "harga": "900.000",
+            "link": "https://www.google.com/search?q=cJas+Hitam&tbm=shop"
+        },
+        {
+            "foto": "images/produk/Sweater-5.png",
+            "nama": "Sweater",
+            "size": "All Size",
+            "harga": "900.000",
+            "link": "https://www.google.com/search?q=Sweater&tbm=shop"
+        },
+        {
+            "foto": "images/produk/Jas-1.png",
+            "nama": "Jas",
+            "size": "All Size",
+            "harga": "800.000",
+            "link": "https://www.google.com/search?q=Jas&tbm=shop"
+        },
+        {
+            "foto": "images/produk/Celana.png",
+            "nama": "Celana",
+            "size": "28-41",
+            "harga": "500.000",
+            "link": "https://www.google.com/search?q=Celana&tbm=shop"
+        },
+        {
+            "foto": "images/produk/Sweater-4.png",
+            "nama": "Sweater",
+            "size": "All Size",
+            "harga": "499.000",
+            "link": "https://www.google.com/search?q=Sweater&tbm=shop"
+        },
+        {
+            "foto": "images/produk/Sepatu-2.png",
+            "nama": "Sepatu",
+            "size": "39-49",
+            "harga": "450.000",
+            "link": "https://www.google.com/search?q=Sepatu&tbm=shop"
+        },
+        {
+            "foto": "images/produk/Hoodie-2.png",
+            "nama": "Hoodie",
+            "size": "All Size",
+            "harga": "450.000",
+            "link": "https://www.google.com/search?q=Hoodie&tbm=shop"
+        },
+        {
+            "foto": "images/produk/Celana-3.png",
+            "nama": "Celana",
+            "size": "28-41",
+            "harga": "350.000",
+            "link": "https://www.google.com/search?q=Celana&tbm=shop"
+        },
+        {
+            "foto": "images/produk/Sepatu.png",
+            "nama": "Sepatu",
+            "size": "39-49",
+            "harga": "350.000",
+            "link": "https://www.google.com/search?q=Sepatu&tbm=shop"
+        },
+        {
+            "foto": "images/produk/Sweater-2.png",
+            "nama": "Sweater",
+            "size": "All Size",
+            "harga": "250.000",
+            "link": "https://www.google.com/search?q=Sweater&tbm=shop"
+        },
+        {
+            "foto": "images/produk/Hoodie-1.png",
+            "nama": "Hoodie",
+            "size": "All Size",
+            "harga": "250.000",
+            "link": "https://www.google.com/search?q=Hoodie&tbm=shop"
+        }
+    ],
+    "paling_murah": [
+        {
+            "foto": "images/produk/Hoodie-1.png",
+            "nama": "Hoodie",
+            "size": "All Size",
+            "harga": "250.000",
+            "link": "https://www.google.com/search?q=Hoodie&tbm=shop"
+        },
+        {
+            "foto": "images/produk/Sweater-2.png",
+            "nama": "Sweater",
+            "size": "All Size",
+            "harga": "250.000",
+            "link": "https://www.google.com/search?q=Sweater&tbm=shop"
+        },
+        {
+            "foto": "images/produk/Sepatu.png",
+            "nama": "Sepatu",
+            "size": "39-49",
+            "harga": "350.000",
+            "link": "https://www.google.com/search?q=Sepatu&tbm=shop"
+        },
+        {
+            "foto": "images/produk/Celana-3.png",
+            "nama": "Celana",
+            "size": "28-41",
+            "harga": "350.000",
+            "link": "https://www.google.com/search?q=Celana&tbm=shop"
+        },
+        {
+            "foto": "images/produk/Sepatu-2.png",
+            "nama": "Sepatu",
+            "size": "39-49",
+            "harga": "450.000",
+            "link": "https://www.google.com/search?q=Sepatu&tbm=shop"
+        },
+        {
+            "foto": "images/produk/Hoodie-2.png",
+            "nama": "Hoodie",
+            "size": "All Size",
+            "harga": "450.000",
+            "link": "https://www.google.com/search?q=Hoodie&tbm=shop"
+        },
+        {
+            "foto": "images/produk/Sweater-4.png",
+            "nama": "Sweater",
+            "size": "All Size",
+            "harga": "499.000",
+            "link": "https://www.google.com/search?q=Sweater&tbm=shop"
+        },
+        {
+            "foto": "images/produk/Celana.png",
+            "nama": "Celana",
+            "size": "28-41",
+            "harga": "500.000",
+            "link": "https://www.google.com/search?q=Celana&tbm=shop"
+        },
+        {
+            "foto": "images/produk/Jas-1.png",
+            "nama": "Jas",
+            "size": "All Size",
+            "harga": "800.000",
+            "link": "https://www.google.com/search?q=Jas&tbm=shop"
+        },
+        {
+            "foto": "images/produk/Sweater-5.png",
+            "nama": "Sweater",
+            "size": "All Size",
+            "harga": "900.000",
+            "link": "https://www.google.com/search?q=Sweater&tbm=shop"
+        },
+        {
+            "foto": "images/produk/Jas-2.png",
+            "nama": "Jas Hitam",
+            "size": "All Size",
+            "harga": "900.000",
+            "link": "https://www.google.com/search?q=cJas+Hitam&tbm=shop"
+        },
+        {
+            "foto": "images/produk/Hoodie-3.png",
+            "nama": "Hoodie",
+            "size": "All Size",
+            "harga": "950.000",
+            "link": "https://www.google.com/search?q=Hoodie&tbm=shop"
+        }
+    ],
+    "input-grup": [
+        {
+            "foto": "images/produk/Hoodie-1.png",
+            "nama": "Hoodie",
+            "size": "All Size",
+            "harga": "250.000",
+            "link": "https://www.google.com/search?q=Hoodie&tbm=shop"
+        },
+        {
+            "foto": "images/produk/Sweater-2.png",
+            "nama": "Sweater",
+            "size": "All Size",
+            "harga": "250.000",
+            "link": "https://www.google.com/search?q=Sweater&tbm=shop"
+        },
+        {
+            "foto": "images/produk/Sepatu.png",
+            "nama": "Sepatu",
+            "size": "39-49",
+            "harga": "350.000",
+            "link": "https://www.google.com/search?q=Sepatu&tbm=shop"
+        },
+        {
+            "foto": "images/produk/Celana-3.png",
+            "nama": "Celana",
+            "size": "28-41",
+            "harga": "350.000",
+            "link": "https://www.google.com/search?q=Celana&tbm=shop"
+        },
+        {
+            "foto": "images/produk/Sepatu-2.png",
+            "nama": "Sepatu",
+            "size": "39-49",
+            "harga": "450.000",
+            "link": "https://www.google.com/search?q=Sepatu&tbm=shop"
+        },
+        {
+            "foto": "images/produk/Hoodie-2.png",
+            "nama": "Hoodie",
+            "size": "All Size",
+            "harga": "450.000",
+            "link": "https://www.google.com/search?q=Hoodie&tbm=shop"
+        },
+        {
+            "foto": "images/produk/Sweater-4.png",
+            "nama": "Sweater",
+            "size": "All Size",
+            "harga": "499.000",
+            "link": "https://www.google.com/search?q=Sweater&tbm=shop"
+        },
+        {
+            "foto": "images/produk/Celana.png",
+            "nama": "Celana",
+            "size": "28-41",
+            "harga": "500.000",
+            "link": "https://www.google.com/search?q=Celana&tbm=shop"
+        },
+        {
+            "foto": "images/produk/Jas-1.png",
+            "nama": "Jas",
+            "size": "All Size",
+            "harga": "800.000",
+            "link": "https://www.google.com/search?q=Jas&tbm=shop"
+        },
+        {
+            "foto": "images/produk/Sweater-5.png",
+            "nama": "Sweater",
+            "size": "All Size",
+            "harga": "900.000",
+            "link": "https://www.google.com/search?q=Sweater&tbm=shop"
+        },
+        {
+            "foto": "images/produk/Jas-2.png",
+            "nama": "Jas Hitam",
+            "size": "All Size",
+            "harga": "900.000",
+            "link": "https://www.google.com/search?q=cJas+Hitam&tbm=shop"
+        },
+        {
+            "foto": "images/produk/Hoodie-3.png",
+            "nama": "Hoodie",
+            "size": "All Size",
+            "harga": "950.000",
+            "link": "https://www.google.com/search?q=Hoodie&tbm=shop"
+        }
+    ]
+}
